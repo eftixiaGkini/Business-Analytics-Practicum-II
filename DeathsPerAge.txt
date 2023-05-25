@@ -1,0 +1,241 @@
+AGE (Labels)	GEO (Labels)	Attribute	Value
+Less than 25 years	European Union - 27 countries (from 2020)	2011	0
+Less than 25 years	European Union - 27 countries (from 2020)	2012	1
+Less than 25 years	European Union - 27 countries (from 2020)	2013	3
+Less than 25 years	European Union - 27 countries (from 2020)	2014	2
+Less than 25 years	European Union - 27 countries (from 2020)	2015	1
+Less than 25 years	European Union - 27 countries (from 2020)	2016	0
+Less than 25 years	European Union - 27 countries (from 2020)	2017	2
+Less than 25 years	European Union - 27 countries (from 2020)	2018	1
+Less than 25 years	European Union - 27 countries (from 2020)	2019	1
+Less than 25 years	European Union - 27 countries (from 2020)	2020	1
+Less than 25 years	European Union - 28 countries (2013-2020)	2011	0
+Less than 25 years	European Union - 28 countries (2013-2020)	2012	2
+Less than 25 years	European Union - 28 countries (2013-2020)	2013	3
+Less than 25 years	European Union - 28 countries (2013-2020)	2014	2
+Less than 25 years	European Union - 28 countries (2013-2020)	2015	1
+Less than 25 years	European Union - 28 countries (2013-2020)	2016	0
+Less than 25 years	European Union - 28 countries (2013-2020)	2017	2
+Less than 25 years	European Union - 28 countries (2013-2020)	2018	1
+Less than 25 years	European Union - 28 countries (2013-2020)	2019	:
+Less than 25 years	European Union - 28 countries (2013-2020)	2020	:
+Less than 25 years	Greece	2011	0
+Less than 25 years	Greece	2012	0
+Less than 25 years	Greece	2013	0
+Less than 25 years	Greece	2014	0
+Less than 25 years	Greece	2015	0
+Less than 25 years	Greece	2016	0
+Less than 25 years	Greece	2017	0
+Less than 25 years	Greece	2018	0
+Less than 25 years	Greece	2019	0
+Less than 25 years	Greece	2020	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2011	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2012	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2013	1
+From 25 to 29 years	European Union - 27 countries (from 2020)	2014	3
+From 25 to 29 years	European Union - 27 countries (from 2020)	2015	2
+From 25 to 29 years	European Union - 27 countries (from 2020)	2016	2
+From 25 to 29 years	European Union - 27 countries (from 2020)	2017	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2018	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2019	0
+From 25 to 29 years	European Union - 27 countries (from 2020)	2020	2
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2011	0
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2012	0
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2013	1
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2014	3
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2015	2
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2016	2
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2017	0
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2018	0
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2019	:
+From 25 to 29 years	European Union - 28 countries (2013-2020)	2020	:
+From 25 to 29 years	Greece	2011	0
+From 25 to 29 years	Greece	2012	0
+From 25 to 29 years	Greece	2013	0
+From 25 to 29 years	Greece	2014	0
+From 25 to 29 years	Greece	2015	0
+From 25 to 29 years	Greece	2016	0
+From 25 to 29 years	Greece	2017	0
+From 25 to 29 years	Greece	2018	0
+From 25 to 29 years	Greece	2019	0
+From 25 to 29 years	Greece	2020	0
+From 30 to 44 years	European Union - 27 countries (from 2020)	2011	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2012	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2013	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2014	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2015	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2016	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2017	:
+From 30 to 44 years	European Union - 27 countries (from 2020)	2018	0
+From 30 to 44 years	European Union - 27 countries (from 2020)	2019	1
+From 30 to 44 years	European Union - 27 countries (from 2020)	2020	11
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2011	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2012	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2013	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2014	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2015	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2016	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2017	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2018	0
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2019	:
+From 30 to 44 years	European Union - 28 countries (2013-2020)	2020	:
+From 30 to 44 years	Greece	2011	:
+From 30 to 44 years	Greece	2012	:
+From 30 to 44 years	Greece	2013	:
+From 30 to 44 years	Greece	2014	:
+From 30 to 44 years	Greece	2015	:
+From 30 to 44 years	Greece	2016	:
+From 30 to 44 years	Greece	2017	:
+From 30 to 44 years	Greece	2018	:
+From 30 to 44 years	Greece	2019	:
+From 30 to 44 years	Greece	2020	0
+From 45 to 64 years	European Union - 27 countries (from 2020)	2011	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2012	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2013	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2014	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2015	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2016	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2017	:
+From 45 to 64 years	European Union - 27 countries (from 2020)	2018	80
+From 45 to 64 years	European Union - 27 countries (from 2020)	2019	98
+From 45 to 64 years	European Union - 27 countries (from 2020)	2020	818
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2011	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2012	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2013	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2014	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2015	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2016	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2017	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2018	80
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2019	:
+From 45 to 64 years	European Union - 28 countries (2013-2020)	2020	:
+From 45 to 64 years	Greece	2011	:
+From 45 to 64 years	Greece	2012	:
+From 45 to 64 years	Greece	2013	:
+From 45 to 64 years	Greece	2014	:
+From 45 to 64 years	Greece	2015	:
+From 45 to 64 years	Greece	2016	:
+From 45 to 64 years	Greece	2017	:
+From 45 to 64 years	Greece	2018	:
+From 45 to 64 years	Greece	2019	:
+From 45 to 64 years	Greece	2020	25
+From 65 to 74 years	European Union - 27 countries (from 2020)	2011	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2012	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2013	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2014	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2015	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2016	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2017	:
+From 65 to 74 years	European Union - 27 countries (from 2020)	2018	6370
+From 65 to 74 years	European Union - 27 countries (from 2020)	2019	6428
+From 65 to 74 years	European Union - 27 countries (from 2020)	2020	6479
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2011	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2012	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2013	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2014	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2015	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2016	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2017	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2018	8517
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2019	:
+From 65 to 74 years	European Union - 28 countries (2013-2020)	2020	:
+From 65 to 74 years	Greece	2011	:
+From 65 to 74 years	Greece	2012	:
+From 65 to 74 years	Greece	2013	:
+From 65 to 74 years	Greece	2014	:
+From 65 to 74 years	Greece	2015	:
+From 65 to 74 years	Greece	2016	:
+From 65 to 74 years	Greece	2017	:
+From 65 to 74 years	Greece	2018	:
+From 65 to 74 years	Greece	2019	:
+From 65 to 74 years	Greece	2020	240
+From 75 to 84 years	European Union - 27 countries (from 2020)	2011	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2012	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2013	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2014	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2015	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2016	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2017	:
+From 75 to 84 years	European Union - 27 countries (from 2020)	2018	41776
+From 75 to 84 years	European Union - 27 countries (from 2020)	2019	42254
+From 75 to 84 years	European Union - 27 countries (from 2020)	2020	41974
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2011	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2012	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2013	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2014	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2015	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2016	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2017	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2018	55381
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2019	:
+From 75 to 84 years	European Union - 28 countries (2013-2020)	2020	:
+From 75 to 84 years	Greece	2011	:
+From 75 to 84 years	Greece	2012	:
+From 75 to 84 years	Greece	2013	:
+From 75 to 84 years	Greece	2014	:
+From 75 to 84 years	Greece	2015	:
+From 75 to 84 years	Greece	2016	:
+From 75 to 84 years	Greece	2017	:
+From 75 to 84 years	Greece	2018	:
+From 75 to 84 years	Greece	2019	:
+From 75 to 84 years	Greece	2020	1122
+85 years or over	European Union - 27 countries (from 2020)	2011	58987
+85 years or over	European Union - 27 countries (from 2020)	2012	68183
+85 years or over	European Union - 27 countries (from 2020)	2013	75378
+85 years or over	European Union - 27 countries (from 2020)	2014	78217
+85 years or over	European Union - 27 countries (from 2020)	2015	93466
+85 years or over	European Union - 27 countries (from 2020)	2016	97150
+85 years or over	European Union - 27 countries (from 2020)	2017	107109
+85 years or over	European Union - 27 countries (from 2020)	2018	113955
+85 years or over	European Union - 27 countries (from 2020)	2019	115870
+85 years or over	European Union - 27 countries (from 2020)	2020	113623
+85 years or over	European Union - 28 countries (2013-2020)	2011	82313
+85 years or over	European Union - 28 countries (2013-2020)	2012	95575
+85 years or over	European Union - 28 countries (2013-2020)	2013	104410
+85 years or over	European Union - 28 countries (2013-2020)	2014	109908
+85 years or over	European Union - 28 countries (2013-2020)	2015	130550
+85 years or over	European Union - 28 countries (2013-2020)	2016	134614
+85 years or over	European Union - 28 countries (2013-2020)	2017	146338
+85 years or over	European Union - 28 countries (2013-2020)	2018	152595
+85 years or over	European Union - 28 countries (2013-2020)	2019	:
+85 years or over	European Union - 28 countries (2013-2020)	2020	:
+85 years or over	Greece	2011	24
+85 years or over	Greece	2012	21
+85 years or over	Greece	2013	50
+85 years or over	Greece	2014	198
+85 years or over	Greece	2015	316
+85 years or over	Greece	2016	360
+85 years or over	Greece	2017	606
+85 years or over	Greece	2018	506
+85 years or over	Greece	2019	658
+85 years or over	Greece	2020	893
+Total	European Union - 27 countries (from 2020)	2011	87693
+Total	European Union - 27 countries (from 2020)	2012	100251
+Total	European Union - 27 countries (from 2020)	2013	110406
+Total	European Union - 27 countries (from 2020)	2014	113497
+Total	European Union - 27 countries (from 2020)	2015	134225
+Total	European Union - 27 countries (from 2020)	2016	138631
+Total	European Union - 27 countries (from 2020)	2017	152331
+Total	European Union - 27 countries (from 2020)	2018	162967
+Total	European Union - 27 countries (from 2020)	2019	165376
+Total	European Union - 27 countries (from 2020)	2020	162909
+Total	European Union - 28 countries (2013-2020)	2011	121867
+Total	European Union - 28 countries (2013-2020)	2012	139923
+Total	European Union - 28 countries (2013-2020)	2013	152251
+Total	European Union - 28 countries (2013-2020)	2014	158900
+Total	European Union - 28 countries (2013-2020)	2015	186597
+Total	European Union - 28 countries (2013-2020)	2016	191299
+Total	European Union - 28 countries (2013-2020)	2017	207490
+Total	European Union - 28 countries (2013-2020)	2018	217557
+Total	European Union - 28 countries (2013-2020)	2019	:
+Total	European Union - 28 countries (2013-2020)	2020	:
+Total	Greece	2011	89
+Total	Greece	2012	95
+Total	Greece	2013	114
+Total	Greece	2014	589
+Total	Greece	2015	1009
+Total	Greece	2016	1244
+Total	Greece	2017	1624
+Total	Greece	2018	1720
+Total	Greece	2019	1949
+Total	Greece	2020	2280
